@@ -1,5 +1,5 @@
 
-<!--------|---------|---------|------------------- Main Banner  ----------------------------------------------------------------->
+<!--------|---------|---------|------------------- Main Banner  ---------------------------------------------------------------->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,100:1e3a8a&height=220&section=header&text=4WD%20Arduino%20Robot%20Car&fontSize=64&fontAlign=50&fontAlignY=60&animation=fadeIn&fontColor=ffffff&desc=Bluetooth%20Controlled%20|%20Mobile%20Controlled&descAlign=50&descAlignY=88&descSize=26&descColor=f0f9ff&shadow=true" alt="Header" />
 </div>
